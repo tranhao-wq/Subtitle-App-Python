@@ -1,0 +1,604 @@
+1
+00:00:00,000 --> 00:00:02,000
+Chả mơn quý vị đã quay trở lại.
+
+2
+00:00:02,000 --> 00:00:07,320
+Hôm nay chúng ta sẽ cùng nhau khám phá xô hơn, mồ xẻ.
+
+3
+00:00:07,320 --> 00:00:09,240
+Những cái tinh tuy từ quấn sách,
+
+4
+00:00:09,240 --> 00:00:14,080
+bị quyết học đầu nhớ đó của PTC Brown và các đồng tác giả.
+
+5
+00:00:14,080 --> 00:00:20,080
+Mục tiêu chính là chất lọc những nguyên tác khoa học về cách náo bộ chúng ta học và nhớ
+
+6
+00:00:20,080 --> 00:00:23,280
+và quan trọng hơn là làm sao áp dụng được vào thực tế.
+
+7
+00:00:23,280 --> 00:00:25,800
+Tất cả là dựa trên quấn sách này thôi.
+
+8
+00:00:25,800 --> 00:00:29,760
+Có một cái điểm khá là thú vị được nêu ra ngày từ đầu ấy
+
+9
+00:00:29,760 --> 00:00:33,079
+là cái quan điểm học dễ thì chưa chắc đã là học hiệu quả đầu.
+
+10
+00:00:33,079 --> 00:00:35,079
+Hình như nỗ lực mới là cái chính.
+
+11
+00:00:35,079 --> 00:00:36,560
+Vâng, chính xá đẹp.
+
+12
+00:00:36,560 --> 00:00:40,679
+Quấn sách thực ra bắt đầu bằng việc chỉ ra mấy phương pháp học rất quen thuộc.
+
+13
+00:00:40,679 --> 00:00:42,679
+Nhưng mà lại không hiệu quả lắm.
+
+14
+00:00:42,679 --> 00:00:44,719
+Ví dụ như là đọc đi đập lại này.
+
+15
+00:00:44,719 --> 00:00:47,520
+Hay là học nhồi nhất, cấp tóc trước kỳ thi.
+
+16
+00:00:47,520 --> 00:00:50,640
+Mấy cách này nó dễ là mình tưởng là mình hiệu bài rồi,
+
+17
+00:00:50,640 --> 00:00:52,640
+kêu ảo tưởng với sự thành thảo ấy.
+
+18
+00:00:52,640 --> 00:00:55,400
+Nhưng mà thực tế đi kênh thức nó nông lắm, bay nhanh lắm.
+
+19
+00:00:55,400 --> 00:00:58,160
+Thay vào đó, sách nhìn bạn kênh nguyên tác cốt lỗi là
+
+20
+00:00:58,159 --> 00:01:00,839
+học hiệu quả thực sự, nó phải cần nỗ lực cơ.
+
+21
+00:01:00,839 --> 00:01:03,319
+Phải có cái gọi là khó khăn cần có.
+
+22
+00:01:03,319 --> 00:01:05,319
+Chính những cái thử thác về mặt nhận thức này này.
+
+23
+00:01:05,319 --> 00:01:08,519
+Nó mấy dúc kiến thức nó ghi sâu vào.
+
+24
+00:01:08,519 --> 00:01:10,439
+Khó khăn cần có.
+
+25
+00:01:10,439 --> 00:01:15,280
+Vậy thì làm sao để tạo ra những cái khó khăn đó một cách hiệu quả.
+
+26
+00:01:15,280 --> 00:01:17,479
+Sách có để xuất chính lược cụ thể nào không,
+
+27
+00:01:17,479 --> 00:01:19,519
+thay cho việc đọc lại hay học nhồi.
+
+28
+00:01:19,519 --> 00:01:23,400
+Ở chả, một trong những ký thuật mà sách nhấn mạnh và nó rất mạnh mẽ.
+
+29
+00:01:23,400 --> 00:01:25,079
+Đó là gợi nhớ chủ động.
+
+30
+00:01:25,079 --> 00:01:27,039
+Tuyến anh là Retrieval Practice đấy.
+
+31
+00:01:27,040 --> 00:01:30,240
+Tức là thay vì mình chỉ nhìn lại thông tin, đọc lại sách vở.
+
+32
+00:01:30,240 --> 00:01:31,480
+Thì mình phải chụp động.
+
+33
+00:01:31,480 --> 00:01:35,320
+Cố gắng lôi cái thông tin đó ra khỏi bộ nhớ của mình.
+
+34
+00:01:35,320 --> 00:01:37,719
+Cái hành động mà mình phải nỗ lực để nhớ lại này này.
+
+35
+00:01:37,719 --> 00:01:40,560
+Nó làm cho cái đường dẫn thần kinh liên quan đến thông tin đó.
+
+36
+00:01:40,560 --> 00:01:42,000
+Nó mạnh lên rất nhiều.
+
+37
+00:01:42,000 --> 00:01:43,719
+Thì đây chính là một cái ví dụ rất giỏ.
+
+38
+00:01:43,719 --> 00:01:45,520
+Cũng việc áp dụ khó khăn cần có.
+
+39
+00:01:45,520 --> 00:01:47,360
+Nó khó hơn đọc lại, gió dàng rồi.
+
+40
+00:01:47,360 --> 00:01:48,960
+Nhưng mà hiệu quả thì hơn hạnh.
+
+41
+00:01:48,960 --> 00:01:50,400
+Ah, ra vậy.
+
+42
+00:01:50,400 --> 00:01:52,120
+Tất cả là phải nỗ lực gợi nhớ.
+
+43
+00:01:52,120 --> 00:01:54,920
+Thay vì chỉ ngồi tiếp nhận một cách thủ động thôi.
+
+44
+00:01:57,040 --> 00:01:58,040
+Đạc có.
+
+45
+00:01:58,040 --> 00:02:00,200
+Tiếp theo là lập lại cách mãn.
+
+46
+00:02:00,200 --> 00:02:02,040
+Space repetition.
+
+47
+00:02:02,040 --> 00:02:05,040
+Thay vì mình on tập liên tục dồn giập trong một bùi.
+
+48
+00:02:05,040 --> 00:02:06,960
+Thì mình nên để có những khoảng nỉ.
+
+49
+00:02:06,960 --> 00:02:08,159
+Dỡ các lần on.
+
+50
+00:02:08,159 --> 00:02:10,800
+Cái việc mà mình cho phép bản thân hơi quên đi một chút.
+
+51
+00:02:10,800 --> 00:02:13,120
+Rồi sau đó lại phải nỗ lực nhớ lại.
+
+52
+00:02:13,120 --> 00:02:14,400
+Nó lại dút.
+
+53
+00:02:14,400 --> 00:02:16,599
+Cũng có chỉ nhớ giải hạn tốt hơn nhiều.
+
+54
+00:02:16,599 --> 00:02:19,080
+Sau vui việc cứ on đi on lại liên tù tì.
+
+55
+00:02:19,080 --> 00:02:22,040
+Nên là đôi khi việc quên một chút nó không hẳn là sấu.
+
+56
+00:02:22,040 --> 00:02:24,680
+Nó lại là một phần kinh thích để học sâu.
+
+57
+00:02:24,680 --> 00:02:26,280
+Vâng. Vâng.
+
+58
+00:02:26,280 --> 00:02:27,759
+Lập lại cái quán.
+
+59
+00:02:27,759 --> 00:02:30,520
+Và cái thứ ba như là luận tập sen kẽ.
+
+60
+00:02:30,520 --> 00:02:32,360
+Intelliving đúng không?
+
+61
+00:02:32,360 --> 00:02:35,199
+Cái này nghe có vẻ hơi huy ngược nhé.
+
+62
+00:02:35,199 --> 00:02:38,719
+Thương thì mình hay được huyen là phải tập trung sâu vào một thứ cho thành thảo đã chứ.
+
+63
+00:02:38,719 --> 00:02:40,319
+Vâng. Đúng rồi.
+
+64
+00:02:40,319 --> 00:02:43,080
+Nghe thì có vẻ ngược nhưng mà nó rất thiệu quá.
+
+65
+00:02:43,080 --> 00:02:44,920
+Luận tập sen kẽ.
+
+66
+00:02:44,920 --> 00:02:50,199
+Tức là mình chọn lẫn việc học các chủ đề hoặc các kĩ năng khác nhau mà nó có liên qua này.
+
+67
+00:02:50,199 --> 00:02:51,560
+Trong cùng một buổi học.
+
+68
+00:02:51,560 --> 00:02:52,360
+Trần hạn nhé.
+
+69
+00:02:52,360 --> 00:02:56,400
+Khi học tóán, thay vì mình cứ làm hết bài tập của trung 1 rồi mới sang chương 2.
+
+70
+00:02:56,400 --> 00:02:58,120
+Thì mình thử làm vài bài chương 1.
+
+71
+00:02:58,120 --> 00:02:59,800
+Rồi nhảy sang vài bài chương 2.
+
+72
+00:02:59,800 --> 00:03:01,160
+Xong lại quay lại chương 1.
+
+73
+00:03:01,160 --> 00:03:05,120
+Cái việc phải chuyển đối liên tục như thế nó buộc não mình phải làm việc nhiều hơn.
+
+74
+00:03:05,120 --> 00:03:08,720
+Phải phân biệt phải lựa chọn chiến lược đống cho từng bài.
+
+75
+00:03:08,720 --> 00:03:12,360
+Nó giúp mình hiểu sâu hơn và quan trọng là linh hoạt hơn.
+
+76
+00:03:12,360 --> 00:03:14,920
+Khi áp dụng kiến thức và có tình hồn khác nhau.
+
+77
+00:03:14,920 --> 00:03:15,920
+Nó...
+
+78
+00:03:15,920 --> 00:03:17,520
+Kể như là mình tập tên đi dễ.
+
+79
+00:03:17,520 --> 00:03:22,159
+Thay vì chỉ tập mái cu thượng tay thì mình phải tập lương phiên cả thuận tay trái tay dáo bóng.
+
+80
+00:03:22,159 --> 00:03:23,480
+Đấy, đại loại thế.
+
+81
+00:03:23,480 --> 00:03:24,480
+Mhmm.
+
+82
+00:03:24,480 --> 00:03:27,360
+Nghe về mặt lý thuế thì rất là thuyết phục rồi.
+
+83
+00:03:27,360 --> 00:03:31,280
+Gởi nhớ chủ động là bài cách quán, luyện tập xen kẽ.
+
+84
+00:03:31,280 --> 00:03:34,719
+Nhưng mà cái thách thức thực sự chắc là nằm ở chỗ áp dụng phải không?
+
+85
+00:03:34,719 --> 00:03:38,719
+Làm sao để người học có thể biến những cái này thành thoát quen hàng này một cách cụ thể đây?
+
+86
+00:03:38,719 --> 00:03:39,879
+Vâng rất đúng là.
+
+87
+00:03:39,879 --> 00:03:41,280
+Lý thuế thì hay rồi.
+
+88
+00:03:41,280 --> 00:03:43,640
+Nhưng mà biến nó thành hành động mới là quan trọng.
+
+89
+00:03:43,640 --> 00:03:46,680
+Thì mình có thể bắt đầu bằng những bước rất đơn giản thôi.
+
+90
+00:03:46,879 --> 00:03:50,480
+Với gợi nhớ chủ động nhá, Thay vì cứ giở vở ra đọc lại.
+
+91
+00:03:50,480 --> 00:03:52,120
+Thì mình thử gấp vở lại.
+
+92
+00:03:52,120 --> 00:03:54,520
+Rồi tự viết ra xem mình nhớ được những gì.
+
+93
+00:03:54,520 --> 00:03:57,159
+Hoặc là dùng flask arts cũng là một cái giất tốt.
+
+94
+00:03:57,159 --> 00:03:59,719
+Hay đơn giản là tự đặt câu hỏi với bài học.
+
+95
+00:03:59,719 --> 00:04:01,599
+Rồi lập lại cách quán thì sao?
+
+96
+00:04:01,599 --> 00:04:03,480
+Thì mình chủ động lên lịch ôn tập.
+
+97
+00:04:03,480 --> 00:04:08,560
+Ví dụ, học xong hôm nay, mai ôn lại một chút, tuần sau ôn lại, tháng sau ôn lại.
+
+98
+00:04:08,560 --> 00:04:10,719
+Chứ đừng đổi đến sát kỳ thì mấy học.
+
+99
+00:04:10,719 --> 00:04:13,760
+Còn xen kẽ thì ví dụ, họng hại ngữ trẳng hạn.
+
+100
+00:04:13,799 --> 00:04:15,959
+Thay vì cao bùi chỉ cảm đầu học từ mối.
+
+101
+00:04:15,959 --> 00:04:19,000
+Thì mình thử lên phiên một ít từ mối, một ít ngữ pháp.
+
+102
+00:04:19,000 --> 00:04:20,719
+Rồi nghe một đận ngắn xem sao.
+
+103
+00:04:20,719 --> 00:04:21,959
+Kứ chọn lệnh vào.
+
+104
+00:04:22,480 --> 00:04:25,000
+Vậy có một cái kế hoài khành động nào đó...
+
+105
+00:04:25,000 --> 00:04:26,000
+Ờ...
+
+106
+00:04:26,000 --> 00:04:28,120
+đơn giản, khoảng 3 bước trẳng hạn.
+
+107
+00:04:28,120 --> 00:04:29,959
+Mà mọi người có thể áp dụng ngay được không?
+
+108
+00:04:29,959 --> 00:04:31,519
+Giả hoàn toàn có thể.
+
+109
+00:04:31,519 --> 00:04:34,519
+Nếu mà tóm gọn lại dựa trên mấy nguyên tất chính vừa dưới,
+
+110
+00:04:34,519 --> 00:04:36,519
+thì có thể là 3 bước con lõ như thế này.
+
+111
+00:04:36,519 --> 00:04:38,959
+Một là tự kiểm tra thường suyên.
+
+112
+00:04:38,959 --> 00:04:41,439
+Biến cái việc gợi nhớ chủ động thành thoải quyên chính.
+
+113
+00:04:41,480 --> 00:04:45,120
+Với dụ quên mỗi phần đọc, tự hỏi mình mấy câu xem nhớ được gì.
+
+114
+00:04:45,120 --> 00:04:46,920
+Hai là tạo khoảng cách.
+
+115
+00:04:46,920 --> 00:04:49,360
+Tức là chủ động lên lịch ôn tập cách quan ra.
+
+116
+00:04:49,360 --> 00:04:51,800
+Có thể dùng lịch dùng áp nhắc nhờ gì đó.
+
+117
+00:04:51,800 --> 00:04:54,439
+Đừng đội đến lúc cảm thấy quên sạch rồi mấy ôn.
+
+118
+00:04:54,439 --> 00:04:57,360
+Và 3 là chỗ lẫn bài tập hoặc chủ đề.
+
+119
+00:04:57,360 --> 00:04:58,560
+Khi mình duệnh tập biết,
+
+120
+00:04:58,560 --> 00:05:01,360
+của găng kết hợp nhiều dạng bài nhiều kĩ năng khắc nhiều vào,
+
+121
+00:05:01,360 --> 00:05:03,839
+chứ đừng làm một lèo chỉ một loại từ đầu đến cuối.
+
+122
+00:05:03,839 --> 00:05:05,079
+Rất giọ dàng.
+
+123
+00:05:05,079 --> 00:05:05,759
+Như vậy,
+
+124
+00:05:05,759 --> 00:05:08,319
+nếu mà phải chất lọc lại cái thùng điệp quan trọng nhất,
+
+125
+00:05:08,360 --> 00:05:11,199
+cót lọi nhất từ quấn bị quyết học đồ như đó.
+
+126
+00:05:11,199 --> 00:05:13,159
+Thì theo chị, đó sẽ là gì?
+
+127
+00:05:13,159 --> 00:05:17,439
+Tôi nghĩ cái thùng diệp cót lỗi nhất mà quân sách muốn gửi gắn mấy.
+
+128
+00:05:17,439 --> 00:05:18,399
+Đó là,
+
+129
+00:05:18,399 --> 00:05:20,000
+cái con đường học tập hiệu quả nhất,
+
+130
+00:05:20,000 --> 00:05:22,480
+thường nó không phải là con đường dễ dàng nhất đâu.
+
+131
+00:05:22,480 --> 00:05:24,719
+Nó đoài hỏi cái sự nỗ lực về mặt nhận thức.
+
+132
+00:05:24,719 --> 00:05:25,920
+Một cách có chủ đích.
+
+133
+00:05:25,920 --> 00:05:28,240
+Thông qua những chiến lược như là gợi nhớ chủ động này,
+
+134
+00:05:28,240 --> 00:05:31,120
+lập lại cái quảng này và luận tập xên kế.
+
+135
+00:05:31,120 --> 00:05:34,560
+Mặc hư ban đầu mình có thể cảm thấy mấy cách này nó hơi khó khăn hơn,
+
+136
+00:05:34,560 --> 00:05:35,680
+nó tốn sức hơn.
+
+137
+00:05:35,680 --> 00:05:37,560
+Nhưng mà chính những phong pháp này,
+
+138
+00:05:37,560 --> 00:05:40,480
+mới là cái chiều khóa để mình xây dựng được kiến thức xơ xác,
+
+139
+00:05:40,480 --> 00:05:43,840
+bên vững và thực sự là dính chặt vào đầu mình ý.
+
+140
+00:05:43,840 --> 00:05:45,920
+Cái giá chị lớn nhất của quấn sách theo tôi,
+
+141
+00:05:45,920 --> 00:05:49,079
+là nó cũng cấp một bộ công cụ dựa trên nghiên cứu khoa học hành hoài,
+
+142
+00:05:49,079 --> 00:05:51,120
+để giúp chúng ta học một cách thông minh hơn,
+
+143
+00:05:51,120 --> 00:05:53,240
+chứ không chỉ là chăm chỉ hơn một cách mấy mốc.
+
+144
+00:05:53,240 --> 00:05:55,439
+Ngọc mà có về nó đoài hỏi nhiều nỗ lực hơn,
+
+145
+00:05:55,439 --> 00:05:56,840
+vất phải hơn trong lãnh hạn.
+
+146
+00:05:56,840 --> 00:05:58,759
+Như là hợi nhớ hay xên kẽ,
+
+147
+00:05:58,759 --> 00:06:01,280
+nó lại mang lại kết quả bên vững hơn trong giải hạn.
+
+148
+00:06:01,399 --> 00:06:03,919
+Điều này nó tiết lộ kỳ gì về cách mà bộ nã của chúng ta
+
+149
+00:06:03,919 --> 00:06:06,559
+thực sự xây dựng và cùng cố cắt kết nữa thành kinh
+
+150
+00:06:06,559 --> 00:06:08,319
+để hình thành niên kiến thức nhỉ.
+
+151
+00:06:08,319 --> 00:06:10,000
+Một có hỏi rất đáng để suy nghĩ thêm.
+
