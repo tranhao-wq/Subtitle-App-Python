@@ -1,5 +1,15 @@
 # 📺 Subtitle TV App
 
+# App
+
+![image](https://github.com/user-attachments/assets/33dfe731-30a1-4e63-ae78-ccdf61c61a6c)
+![image](https://github.com/user-attachments/assets/ec2b714c-b74b-4050-8342-a1c3f8c0e1c0)
+![image](https://github.com/user-attachments/assets/da684c98-4f0a-4b96-93da-7dfac3f44a52)
+![Uploading image.png…]()
+
+
+---
+
 A simple Python application that generates subtitles from audio and displays them like a TV app.
 
 ---
